@@ -1,4 +1,8 @@
 {
   "name": "webpacker-to-shakapacker-upgrade",
-  "packageManager": "yarn@3.2.2"
+  "packageManager": "yarn@3.2.2",
+  "dependencies": {
+    "core-js": "^3.24.1",
+    "regenerator-runtime": "^0.13.9"
+  }
 }
