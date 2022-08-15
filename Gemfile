@@ -56,4 +56,4 @@ group :development do
 end
 
 
-gem "webpacker", "~> 5.4"
+gem "shakapacker", "= 6.5"
